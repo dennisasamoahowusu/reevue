@@ -1,0 +1,8 @@
+{
+  "name": "reevue",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "d07107fd"
+}
